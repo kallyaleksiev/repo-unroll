@@ -1,4 +1,4 @@
-# repo-unroll-priv
+# repo-unroll
 Get all non-gitignored text into context.
 
 Simple script to get all non-gitgnored ASCII text from a repo into a single string.
@@ -243,7 +243,7 @@ __marimo__/
 
 
 ./README.md:
-# repo-unroll-priv
+# repo-unroll
 Get all non-gitignored text into context.
 
 Simple script to get all non-gitgnored ASCII text from a repo into a single string.
